@@ -3,3 +3,7 @@ Dracula.txt
 String_Cleaning.xlsx
 Data/Fake_Real_News_Data.joblib
 spooky.csv
+GloVe2/glove.6B.100d.txt
+GloVe2/glove.6B.200d.txt
+GloVe2/glove.6B.50d.txt
+GloVe2/glove.6B.300d.txt
